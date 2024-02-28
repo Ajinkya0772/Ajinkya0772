@@ -1,3 +1,4 @@
+![log](https://github.com/Ajinkya0772/Ajinkya0772/blob/main/1669792697516.jpg)
 <h1 align="center">Hi 👋, I'm Ajinkya Dukare</h1>
 <h3 align="center">"Crafting captivating digital experiences, one line of code at a time 🌟 | Software Developer from India 🇮🇳 | Embracing the artistry of web design 💻✨"</h3>
 
