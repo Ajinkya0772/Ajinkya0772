@@ -1,8 +1,7 @@
-![logo](https://github.com/Ajinkya0772/Ajinkya0772/blob/main/1669792697516.jpg)
 <h1 align="center">Hi 👋, I'm Ajinkya Dukare</h1>
-<h3 align="center">"Crafting captivating digital experiences, one line of code at a time 🌟 | Software Developer from India 🇮🇳 | Embracing the artistry of web design 💻✨"</h3
+<h3 align="center">"Crafting captivating digital experiences, one line of code at a time 🌟 | Software Developer from India 🇮🇳 | Embracing the artistry of web design 💻✨"</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img src ="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya0772&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya0772" /> </p>
 
